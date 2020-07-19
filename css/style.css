@@ -1,0 +1,15 @@
+body {
+    font-family: 'Roboto Slab', serif;
+}
+.row {
+    margin: 20px;
+}
+.wripper {
+    text-align: center;
+}
+
+.btn {
+    text-transform: uppercase;
+    background-color: blue;
+    color: #fff;
+}
